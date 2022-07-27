@@ -9,12 +9,12 @@
 }
 
 .main-color {
-    background-color: red;
+    background-color: #FA804C;
 
 }
 
 .main-color:hover {
-    background-color: #FA804C;
+    background-color: red;
 }
 
 .main-text-color {
@@ -26,19 +26,20 @@
 }
 
 .main-font-color {
-    color: #FA804C;
+    color: #FA804C !important;
 }
+
 
 .secondary-text-color {
     color: #363958;
-    font-size: 4rem;
+    font-size: 2rem;
     font-family: 'Bebas Neue',
         cursive;
     letter-spacing: 5px;
 }
 
 .secondary-text {
-    color: #363958;
-    font-family: 'Montserrat', sans-serif;
+    color: #363958 !important;
+    font-family: 'Montserrat', sans-serif !important;
 
 }
